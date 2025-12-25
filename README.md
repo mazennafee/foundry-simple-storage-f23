@@ -64,3 +64,5 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+# Foundry Simple Storage F23
+This repository is part of my journey learning Smart Contract development with Foundry.
